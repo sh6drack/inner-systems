@@ -1,14 +1,10 @@
 
-# Contemplative AI — Shadrack Annor
-
-**A working lab and philosophical outline toward building AI systems that reduce ego, restore attention, and support deep reflection.**
-
----
+# Inner Systems/Contemplative AI — Shadrack Annor
 
 ## Purpose
 
-Modern technology is designed to fragment. It maximizes engagement, not understanding.  
-This project explores what it would mean to reverse that — to build systems that support slowness, clarity, and self-inquiry.
+Modern technology is designed to fragment as it emphasizes engagement over understanding.
+This project explores what it would mean to reverse that — to build systems that support mindfulness, clarity, and self-inquiry. I aim to establish programs that wholeheartedly respect the mind, body, and soul.
 
 ---
 
@@ -28,32 +24,8 @@ This project explores what it would mean to reverse that — to build systems th
 ## Current Projects
 
 - **Contemplative Chat Prototype**  
-  A minimalist chatbot trained on Zen prompts, self-reflection structures, and poetic recursion. No validation loops. No gamification.
+  A minimalist chatbot trained on context based prompts, self-reflection, and zero bias. Avoids feeding into dopaminergic reward loops.
 
 - **Design Brief: "A Non-Dual Operating System"**  
   A speculative doc exploring what computing would look like if it didn’t assume a split between user and system.
 
-- **Research Archive**  
-  - Surveillance Capitalism (Zuboff)  
-  - Psychedelic Integration + Risk Literature (Palitsky et al., Aday et al., McNamee)  
-  - Attention Restoration Theory (Kaplan)
-
----
-
-## Guiding Questions
-
-- Can artificial systems prompt genuine inner silence?
-- What is the minimum viable interface for transformation?
-- How do you build with care, not just code?
-
----
-
-## Long-Term Vision
-
-To create a toolkit — philosophical, technical, and design-oriented — for engineers and product thinkers who want to build technology that respects the mind, body, and soul.
-
----
-
-## Contact / Collaboration
-
-If you work at the intersection of ethics, HCI, design, or philosophy and want to push these ideas forward — reach out.
